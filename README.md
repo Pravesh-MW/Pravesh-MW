@@ -4,6 +4,7 @@
 🎓 IT Graduate from **NIT Jalandhar** | **Web & Backend Developer**  
 💡 Passionate about **Software Development, DSA & Competitive Coding**  
 🌱 Currently learning **Java Spring Boot & System Design**  
+🎯 **GATE Qualified (2024 & 2025)**  
 📫 Reach me at **praveshkbind.work@gmail.com**  
 🔗 Check out my **[Portfolio](https://pravesh-bind.vercel.app/)**  
 
@@ -31,9 +32,9 @@
 
 ## 🚀 Featured Projects  
 
-📌 **[ShareEase](https://github.com/Pravesh-MW/ShareEase)** - A secure **file-sharing platform** with **email-based sharing**.  
-🛍 **[E-Commerce Dashboard](https://github.com/Pravesh-MW/ECommerce-Dashboard)** - Optimized **e-commerce analytics** dashboard with **FastAPI & Firebase**.  
-🌦 **[Real-Time Weather App](https://github.com/Pravesh-MW/WeatherApp)** - Fetches **real-time weather updates** with API integration.  
+📌 **[ShareEase](https://github.com/Pravesh-MW/ShareEase)** – A secure **file-sharing platform** with **email-based sharing**.  
+🛍 **[E-Commerce Dashboard](https://github.com/Pravesh-MW/ECommerce-Dashboard)** – Optimized **e-commerce analytics** dashboard with **FastAPI & Firebase**.  
+🌦 **[Real-Time Weather App](https://github.com/Pravesh-MW/WeatherApp)** – Fetches **real-time weather updates** with API integration.  
 
 ---
 
@@ -42,6 +43,14 @@
 - 📜 **Spring Boot Microservices** - Udemy  
 - 📜 **Full Stack Development with MERN** - Coursera  
 - 📜 **SQL for Data Science** - DataCamp  
+
+---
+
+## 🎯 Achievements  
+
+- ✅ **GATE Qualified (2024 & 2025)**  
+- 🏆 **Ranked 29th / 3400+ in GeeksforGeeks Weekly Coding Contest**  
+- 💡 **Solved 600+ DSA problems across LeetCode & GFG**  
 
 ---
 
